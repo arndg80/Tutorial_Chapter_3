@@ -1,0 +1,3 @@
+PROCESSOR=ps7_cortexa9_0
+REPOSITORIES=-lp /opt/Xilinx/14.5/ISE_DS/EDK/sw/XilinxProcessorIPLib/drivers
+HWSPEC=../system_hw_platform/system.xml
